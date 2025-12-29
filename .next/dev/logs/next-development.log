@@ -2514,3 +2514,156 @@ Parsing ecmascript source code failed
 [03:31:03.647] Server  LOG     ✓ Compiled in 35ms
 [03:31:04.201] Server  LOG     ✓ Compiled in 65ms
 [03:32:19.879] Server  LOG     ✓ Compiled in 189ms
+[03:45:58.965] Server  ERROR   ⨯ ./Developer/alx/ProDev_FrontEnd/Week_4/alx-listing-app-00/pages/_app.tsx:1:1
+Module not found: Can't resolve '@/components/layouts/Layout'
+> 1 | import Layout from '@/components/layouts/Layout';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import '@/styles/globals.css';
+  3 | import type { AppProps } from 'next/app';
+  4 |
+
+Import map: aliased to relative './components/layouts/Layout' inside of [project]/Developer/alx/ProDev_FrontEnd/Week_4/alx-listing-app-00
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[03:45:58.966] Server  ERROR   ⨯ ./Developer/alx/ProDev_FrontEnd/Week_4/alx-listing-app-00/pages/_app.tsx:1:1
+Module not found: Can't resolve '@/components/layouts/Layout'
+> 1 | import Layout from '@/components/layouts/Layout';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import '@/styles/globals.css';
+  3 | import type { AppProps } from 'next/app';
+  4 |
+
+Import map: aliased to relative './components/layouts/Layout' inside of [project]/Developer/alx/ProDev_FrontEnd/Week_4/alx-listing-app-00
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[03:45:58.984] Server  ERROR   ⨯ ./Developer/alx/ProDev_FrontEnd/Week_4/alx-listing-app-00/pages/_app.tsx:1:1
+Module not found: Can't resolve '@/components/layouts/Layout'
+> 1 | import Layout from '@/components/layouts/Layout';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import '@/styles/globals.css';
+  3 | import type { AppProps } from 'next/app';
+  4 |
+
+Import map: aliased to relative './components/layouts/Layout' inside of [project]/Developer/alx/ProDev_FrontEnd/Week_4/alx-listing-app-00
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[03:45:58.985] Server  ERROR   ⨯ ./Developer/alx/ProDev_FrontEnd/Week_4/alx-listing-app-00/pages/_app.tsx:1:1
+Module not found: Can't resolve '@/components/layouts/Layout'
+> 1 | import Layout from '@/components/layouts/Layout';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import '@/styles/globals.css';
+  3 | import type { AppProps } from 'next/app';
+  4 |
+
+Import map: aliased to relative './components/layouts/Layout' inside of [project]/Developer/alx/ProDev_FrontEnd/Week_4/alx-listing-app-00
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[03:45:58.986] Server  ERROR   ⨯ ./Developer/alx/ProDev_FrontEnd/Week_4/alx-listing-app-00/pages/_app.tsx:1:1
+Module not found: Can't resolve '@/components/layouts/Layout'
+> 1 | import Layout from '@/components/layouts/Layout';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import '@/styles/globals.css';
+  3 | import type { AppProps } from 'next/app';
+  4 |
+
+Import map: aliased to relative './components/layouts/Layout' inside of [project]/Developer/alx/ProDev_FrontEnd/Week_4/alx-listing-app-00
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[03:45:58.987] Server  ERROR   ⨯ ./Developer/alx/ProDev_FrontEnd/Week_4/alx-listing-app-00/pages/_app.tsx:1:1
+Module not found: Can't resolve '@/components/layouts/Layout'
+> 1 | import Layout from '@/components/layouts/Layout';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import '@/styles/globals.css';
+  3 | import type { AppProps } from 'next/app';
+  4 |
+
+Import map: aliased to relative './components/layouts/Layout' inside of [project]/Developer/alx/ProDev_FrontEnd/Week_4/alx-listing-app-00
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[03:45:58.998] Server  ERROR   ⨯ ./Developer/alx/ProDev_FrontEnd/Week_4/alx-listing-app-00/pages/_app.tsx:1:1
+Module not found: Can't resolve '@/components/layouts/Layout'
+> 1 | import Layout from '@/components/layouts/Layout';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import '@/styles/globals.css';
+  3 | import type { AppProps } from 'next/app';
+  4 |
+
+Import map: aliased to relative './components/layouts/Layout' inside of [project]/Developer/alx/ProDev_FrontEnd/Week_4/alx-listing-app-00
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[03:45:58.999] Server  ERROR   ⨯ ./Developer/alx/ProDev_FrontEnd/Week_4/alx-listing-app-00/pages/_app.tsx:1:1
+Module not found: Can't resolve '@/components/layouts/Layout'
+> 1 | import Layout from '@/components/layouts/Layout';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import '@/styles/globals.css';
+  3 | import type { AppProps } from 'next/app';
+  4 |
+
+Import map: aliased to relative './components/layouts/Layout' inside of [project]/Developer/alx/ProDev_FrontEnd/Week_4/alx-listing-app-00
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[03:45:58.999] Server  ERROR   ⨯ ./Developer/alx/ProDev_FrontEnd/Week_4/alx-listing-app-00/pages/_app.tsx:1:1
+Module not found: Can't resolve '@/components/layouts/Layout'
+> 1 | import Layout from '@/components/layouts/Layout';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import '@/styles/globals.css';
+  3 | import type { AppProps } from 'next/app';
+  4 |
+
+Import map: aliased to relative './components/layouts/Layout' inside of [project]/Developer/alx/ProDev_FrontEnd/Week_4/alx-listing-app-00
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[03:45:59.002] Server  ERROR   ⨯ ./Developer/alx/ProDev_FrontEnd/Week_4/alx-listing-app-00/pages/_app.tsx:1:1
+Module not found: Can't resolve '@/components/layouts/Layout'
+> 1 | import Layout from '@/components/layouts/Layout';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import '@/styles/globals.css';
+  3 | import type { AppProps } from 'next/app';
+  4 |
+
+Import map: aliased to relative './components/layouts/Layout' inside of [project]/Developer/alx/ProDev_FrontEnd/Week_4/alx-listing-app-00
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[03:45:59.028] Server  LOG     ✓ Compiled in 472ms
+[03:46:00.044] Browser ERROR   ./Developer/alx/ProDev_FrontEnd/Week_4/alx-listing-app-00/pages/_app.tsx:1:1
+Module not found: Can't resolve '@/components/layouts/Layout'
+> 1 | import Layout from '@/components/layouts/Layout';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import '@/styles/globals.css';
+  3 | import type { AppProps } from 'next/app';
+  4 |
+
+Import map: aliased to relative './components/layouts/Layout' inside of [project]/Developer/alx/ProDev_FrontEnd/Week_4/alx-listing-app-00
+
+https://nextjs.org/docs/messages/module-not-found
+[03:46:02.718] Server  LOG     ✓ Compiled in 253ms
